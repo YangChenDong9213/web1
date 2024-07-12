@@ -9,7 +9,7 @@
         "title": "工具",
         "data": [
             {
-                "name": "帮小忙工具箱1",
+                "name": "帮小忙工具箱",
                 "url": "https://tool.browser.qq.com/"
             },
             {
@@ -129,14 +129,6 @@
             {
                 "name": "潇湘书院",
                 "url": "https://m.xxsy.net/"
-            },
-            {
-                "name": "小说网",
-                "url": "小说网在线阅读"
-            },
-            {
-                "name": "txt小说下载",
-                "url": "txt小说下载"
             }
         ]
     },
