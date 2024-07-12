@@ -1,0 +1,193 @@
+[
+    {
+        "isUrl": true,
+        "title": "酷站",
+        "url": "https://www.hao123.com"
+    },
+    {
+        "isUrl": false,
+        "title": "工具",
+        "data": [
+            {
+                "name": "帮小忙工具箱",
+                "url": "https://tool.browser.qq.com/"
+            },
+            {
+                "name": "免费PDF转换工具",
+                "url": "https://www.alltoall.net/"
+            },
+            {
+                "name": "PDF拆分",
+                "url": "https://tool.browser.qq.com/pdf_split.html"
+            },
+            {
+                "name": "图片转PDF",
+                "url": "https://tool.browser.qq.com/img_2_pdf_convert.html"
+            },
+            {
+                "name": "壁纸",
+                "url": "https://bizihu.com/"
+            },
+            {
+                "name": "今天吃什么",
+                "url": "https://tool.browser.qq.com/whattoeat.html"
+            },
+            {
+                "name": "在线小工具",
+                "url": "https://tool.lu/"
+            },
+            {
+                "name": "草料二维码",
+                "url": "https://cli.im/"
+            },
+            {
+                "name": "百度翻译",
+                "url": "https://fanyi.baidu.com/"
+            }
+        ]
+    },
+    {
+        "isUrl": false,
+        "title": "榜单",
+        "data": [
+            {
+                "name": "电影榜",
+                "url": "https://top.baidu.com/board?tab=movie"
+            },
+            {
+                "name": "电视剧榜",
+                "url": "https://top.baidu.com/board?tab=teleplay"
+            },
+            {
+                "name": "小说榜",
+                "url": "https://top.baidu.com/board?tab=novel"
+            },
+            {
+                "name": "游戏榜",
+                "url": "https://top.baidu.com/board?tab=game"
+            },
+            {
+                "name": "热搜榜",
+                "url": "https://top.baidu.com/board?tab=realtime"
+            }
+        ]
+    },
+    {
+        "isUrl": false,
+        "title": "影视",
+        "data": [
+            {
+                "name": "豆瓣电影",
+                "url": "https://m.douban.com/movie/"
+            },
+            {
+                "name": "优酷视频",
+                "url": "https://www.youku.com/"
+            },
+            {
+                "name": "腾讯视频",
+                "url": "https://m.v.qq.com/index.html?ptag=v_qq_com#v.index.adaptor#3"
+            },
+            {
+                "name": "爱奇艺视频",
+                "url": "https://m.iqiyi.com/"
+            },
+            {
+                "name": "免费电影",
+                "url": "免费电影"
+            },
+            {
+                "name": "免费电视剧",
+                "url": "免费电视剧"
+            },
+            {
+                "name": "免费动漫",
+                "url": "免费动漫"
+            },
+            {
+                "name": "免费韩剧",
+                "url": "免费韩剧"
+            },
+            {
+                "name": "免费日剧",
+                "url": "免费日剧"
+            },
+            {
+                "name": "免费美剧",
+                "url": "免费美剧"
+            },
+            {
+                "name": "免费综艺",
+                "url": "免费综艺"
+            }
+        ]
+    },
+    {
+        "isUrl": false,
+        "title": "小说",
+        "data": [
+            {
+                "name": "百度小说排行榜",
+                "url": "https://top.baidu.com/board?tab=novel"
+            },
+            {
+                "name": "纵横中文网",
+                "url": "https://www.zongheng.com/"
+            },
+            {
+                "name": "起点中文网",
+                "url": "https://www.qidian.com/"
+            },
+            {
+                "name": "起点小说排行",
+                "url": "https://m.qidian.com/rank/"
+            },
+            {
+                "name": "笔趣阁",
+                "url": "笔趣阁在线阅读"
+            },
+            {
+                "name": "免费小说",
+                "url": "免费小说在线阅读"
+            },
+            {
+                "name": "晋江文学城",
+                "url": "https://m.jjwxc.net/"
+            },
+            {
+                "name": "潇湘书院",
+                "url": "https://m.xxsy.net/"
+            },
+            {
+                "name": "小说网",
+                "url": "小说网在线阅读"
+            },
+            {
+                "name": "txt小说下载",
+                "url": "txt小说下载"
+            }
+        ]
+    },
+    {
+        "isUrl": false,
+        "title": "热搜",
+        "data": [
+            {
+                "name": "百度热搜",
+                "url": "https://top.baidu.com/board?tab=realtime"
+            },
+            {
+                "name": "微博热搜",
+                "url": "https://s.weibo.com/top/summary?cate=realtimehot"
+            },
+            {
+                "name": "知乎热榜",
+                "url": "https://rebang.today/?tab=zhihu"
+            },
+            {
+                "name": "今日热榜",
+                "url": "https://rebang.today/?tab=top"
+            }
+        ]
+    }
+]
