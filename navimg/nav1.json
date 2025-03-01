@@ -1,22 +1,27 @@
 [
   {
     "name": "人民网",
-    "url": "https://yangchendong9213.github.io/web1/navimg/人民网.png"
+    "img": "https://gitea.com/yangchendong/bs1/raw/branch/main/navimg/人民网.png",
+    "url":"https://app.people.cn/"
   },
   {
     "name": "头条",
-    "url": "https://yangchendong9213.github.io/web1/navimg/头条.png"
+    "img": "https://gitea.com/yangchendong/bs1/raw/branch/main/navimg/头条.png",
+    "url":"https://m.toutiao.com/"
   },
   {
     "name": "搜狐",
-    "url": "https://yangchendong9213.github.io/web1/navimg/搜狐.png"
+    "img": "https://gitea.com/yangchendong/bs1/raw/branch/main/navimg/搜狐.png",
+    "url":"https://m.sohu.com/limit/"
   },
   {
     "name": "网易",
-    "url": "https://yangchendong9213.github.io/web1/navimg/网易.png"
+    "img": "https://gitea.com/yangchendong/bs1/raw/branch/main/navimg/网易.png",
+    "url":"https://m.163.com/"
   },
   {
     "name": "凤凰网",
-    "url": "https://yangchendong9213.github.io/web1/navimg/凤凰网.png"
+    "img": "https://gitea.com/yangchendong/bs1/raw/branch/main/navimg/凤凰网.png",
+    "url":"https://i.ifeng.com/?ch=ifengweb"
   }
 ]
